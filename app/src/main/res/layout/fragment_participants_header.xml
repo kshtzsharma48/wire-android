@@ -152,7 +152,6 @@
                     android:layout_gravity="start"
                     android:gravity="center"
                     android:ellipsize="end"
-                    android:textAllCaps="true"
                     android:singleLine="true"
                     app:font="@string/wire__typeface__light"
                     style="?userSubHeader"
